@@ -1,3 +1,16 @@
+#preview {
+  background-color: gray;
+  width: 30%;
+  border: 5px solid salmon;
+  padding: 50px;
+  margin: 20px;
+}
+
+#editor {
+    width: 30%;
+    height: 30vh;
+}
+
 .App {
   text-align: center;
 }
